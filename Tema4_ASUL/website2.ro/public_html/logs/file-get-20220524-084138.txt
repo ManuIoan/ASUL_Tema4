@@ -1,0 +1,8 @@
+Astazi: 2022-05-24 08:41:38
+Remote site: ::1
+Referinta: http://localhost/website2.ro/public_html/
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.67 Safari/537.36
+
+Numele: Manu Ioan
+Adresa: Strada Gheorgeh Voda nr 92
+Password: password
